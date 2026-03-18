@@ -1,0 +1,51 @@
+Speed:3 Seatbelt:0
+Speed:21 Seatbelt:1
+Speed:27 Seatbelt:0
+Speed:11 Seatbelt:0
+Speed:33 Seatbelt:0
+Speed:91 Seatbelt:1
+Speed:16 Seatbelt:0
+Speed:99 Seatbelt:0
+Speed:10 Seatbelt:0
+Speed:80 Seatbelt:0
+Speed:95 Seatbelt:0
+Speed:40 Seatbelt:1
+Speed:77 Seatbelt:0
+Speed:77 Seatbelt:1
+Speed:79 Seatbelt:0
+Speed:50 Seatbelt:0
+Speed:55 Seatbelt:1
+Speed:39 Seatbelt:0
+Speed:13 Seatbelt:0
+Speed:83 Seatbelt:1
+Speed:20 Seatbelt:0
+Speed:80 Seatbelt:0
+Speed:10 Seatbelt:0
+Speed:90 Seatbelt:0
+Speed:17 Seatbelt:0 → SAFE
+Speed:66 Seatbelt:1 → SAFE
+Speed:92 Seatbelt:1 → SAFE
+Speed:61 Seatbelt:0 → WARNING
+Speed:64 Seatbelt:1 → SAFE
+Speed:33 Seatbelt:0 → WARNING
+Speed:36 Seatbelt:0 → WARNING
+Speed:33 Seatbelt:1 → SAFE
+Speed:44 Seatbelt:1 → SAFE
+Speed:26 Seatbelt:1 → SAFE
+Speed:19 Seatbelt:1 → SAFE
+Speed:63 Seatbelt:1 → SAFE
+Speed:73 Seatbelt:1 → SAFE
+Speed:12 Seatbelt:0 → SAFE
+Speed:77 Seatbelt:1 → SAFE
+Speed:86 Seatbelt:1 → SAFE
+Speed:33 Seatbelt:1 → SAFE
+Speed:94 Seatbelt:1 → SAFE
+Speed:56 Seatbelt:1 → SAFE
+Speed:36 Seatbelt:0 → WARNING
+Speed:9 Seatbelt:1 → SAFE
+Speed:34 Seatbelt:1 → SAFE
+Speed:60 Seatbelt:0 → WARNING
+Speed:40 Seatbelt:0 → WARNING
+Speed:25 Seatbelt:1 → SAFE
+Speed:11 Seatbelt:0 → SAFE
+Speed:30 Seatbelt:1 → SAFE
